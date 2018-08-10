@@ -1,4 +1,4 @@
-FROM qnib/uplain-init:16.04
+FROM qnib/uplain-init:xenial-20171207_2018-08-10_15-37
 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV NV_CUDA_VER=8.0
